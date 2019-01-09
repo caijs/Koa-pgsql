@@ -1,0 +1,7 @@
+__pycache__
+node_modules
+dist
+.cache
+yarn-error.log
+token.json
+.env 

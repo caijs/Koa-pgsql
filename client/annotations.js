@@ -1,0 +1,16 @@
+{
+"salaryInformation": "This enables the calculator to estimate the associated increase/decrease in expense resulting from a change in staffing amounts.",
+"salaryRate": "Enter the average hourly gross pay rate for each discipline.",
+"benefits": "Enter the amount of all employee benefits that the facility generelly provides to the nursing staff as a % of the base payroll amount. (include payroll tax, workers comp, health insurance, retirement etc).",
+"pto": "Enter the total number of all paid off days that the facility generally provides the nursing staff each year (including vacation, sick and personal days and holidays).",
+"meals": "Enter the average number of minutes of paid mealbreak (per 8-hour shift) that the facility provides the emoloyees. (for example, if the morning and evening shifts recive a 30 minute break but the night shift does not, the average would be 20 minutes). Per CMS guidelines, paid meal breaks cannot be included in the staffing hours for PBJ, and accordingly are not counted towards the staffing hours used for the star rating computations.",
+"internalStaffingExplanation": "Various combinations of staffing amounts from the diffirent staffing types can be used to achieve each star rating. The calculater will choose the combination that is closest to the facilitys internal requrement.",
+"averageDailyCensus": "This was the average daily census for the ??? quarter of ??? as per the the most recent quarterly PBJ submission processed by CMS. Census does not include behold days.",
+"stateAvgRates": "Based on data from the U.S. Bureau of Labor Statistics. Includes an adjustment for the national average rate diffirential for SNF settings.",
+"averagePercentRates": "Based on data from the U.S. Bureau of Labor Statistics for Health care and social assistance employees in Nursing care facilities.",
+"avgPercentRates": "Based on most the recent data from the U.S. Bureau of Labor Statistics for Health care and social assistance employees in Nursing care facilities.",
+"defaultStaffingRequirement": "The default amounts are by no means a suggested amount, rather it is a built in mechanism to prevent the calculator from displaying staffing amounts below these levels.",
+"nextOveralStarRating": "This calculation assumes that your health Inspection and Quality Measures ratings remains the same.",
+"currentStaffing": "These numbers are based on the staffing and census data from the quarterly PBJ submission for the  ??? quarter of ???, and are the basis for the current star rating.",
+"currentStaffing2": "These amounts include only hours worked and paid as per PBJ guidelines; it does not include paid time off such as sick and personal days, or lunchbreaks. It also does not include any unpaid worked hours.",
+}

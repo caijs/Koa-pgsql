@@ -1,0 +1,15 @@
+{
+  "migrations-path": "/server/migrations",
+  "models-path": "/server/models",
+  "production": {
+    "use_env_variable" : "DATABASE_URL",
+    "dialect": "postgres"
+  },
+  "development": {
+    "use_env_variable": "DATABASE_URL",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": true
+    }
+  }
+}
